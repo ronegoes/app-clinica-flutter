@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416351095316",
+    "project_id": "odonto-fc4f3",
+    "storage_bucket": "odonto-fc4f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416351095316:android:d8a44f5f4d6c22904bf501",
+        "android_client_info": {
+          "package_name": "com.example.clinica_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPD-COzjX-UIlf36KyjbayT2lYa6-nGFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
